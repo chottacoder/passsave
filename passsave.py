@@ -51,7 +51,7 @@ name = colored(64,224,208, "@amitgajare_")
 banner = colored(255,105,180, f'''
 █▀█ ▄▀█ █▀ █▀ █▀ ▄▀█ █ █ █▀▀
 █▀▀ █▀█ ▄█ ▄█ ▄█ █▀█ ▀▄▀ ██▄
-{name}\t\tV1.0''')
+{name}\t\tV1.1''')
 
 listoption = colored(100,149,237, '''
 1. Add New Password
